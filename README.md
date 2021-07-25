@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyummy2
-- 👀 I’m interested in PYTHON!
-- 🌱 I’m currently learning python..
+- 👀 I’m interested in python
+- 🌱 I’m currently learning html, javascript and python
 - 💞️ I’m looking to collaborate on python :P
 - 📫 How to reach me ... don't
 
